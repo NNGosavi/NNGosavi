@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NNGosavi
+- 👋 Hi, I’m Nishant
 - 👀 I’m interested in Java Programming and QA Automation.
 - 🌱 I’m currently learning Core JAVA
 - 💞️ I’m looking to collaborate on JAVA HTML CSS
